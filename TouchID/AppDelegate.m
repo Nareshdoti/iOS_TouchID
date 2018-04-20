@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  TouchID
 //
-//  Created by  on 18/04/16.
-//  Copyright © 2016 . All rights reserved.
+//  Created by DotiNaresh on 18/04/16.
+//  Copyright © 2016 DotiNaresh . All rights reserved.
 //
 
 #import "AppDelegate.h"
